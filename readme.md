@@ -17,4 +17,4 @@ This repository includes code and data used in the following study: _Machine Lea
 
 **predict_synthesizability.ipynb**: script to run the ML model that predicts synthesizability
 
-**released_Data Files**: directory including output data from each "gen_*" script. Also includes the processed training data required to run the ML model. Raw data used in "gen_*" scripts are not included for copyright reasons (.cif files and data require paid licenses)
+**released_Data Files**: directory including output data from each "gen\_" script. Also includes the processed training data required to run the ML model. Raw data used in "gen\_" scripts are not included for copyright reasons (.cif files and data require paid licenses)
