@@ -1,6 +1,6 @@
 # Introduction
 
-This repository includes code and data used in the following study: _Machine Learned Synthesizability Predictions Aided by Density Functional Theory_ (proper citation will be added once paper is officially published)
+This repository includes code and data used in the following study: _Machine Learned Synthesizability Predictions Aided by Density Functional Theory_ (a proper citation will be added once paper is officially published).
 
 
 # Files/Directories and their descriptions
