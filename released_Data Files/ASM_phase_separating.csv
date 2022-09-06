@@ -1,0 +1,356 @@
+,Composition,1-1-1 Reported Phase,Phase Separating Temperatures (Kelvin),Parse Error
+0,CuGeTe,Phase separation,[ nan  nan 298.],False
+1,ScCrGa,Phase separation,[1073.],False
+2,PuUZr,Phase separation,"[ nan  nan 973. 943. 820. 870. 930. 970. 973. 943. 933. 923. 913. 868.
+ 853. 823.]",False
+3,AuSiBi,Phase separation,[nan],False
+4,MgAlSb,Phase separation,[nan nan],False
+5,DyReB,Phase separation,[1273.],False
+6,HfMoRu,Phase separation,[1773. 1273.],False
+7,CeMgZn,Phase separation,[ nan 573.],False
+8,GdLiMg,Phase separation,[523.],False
+9,HfZrTi,Phase separation,[ 973. 1123. 1473. 1873.],False
+10,AgAlPb,Phase separation,[  nan 1273. 1143. 1143.],False
+11,GeBiTe,Phase separation,[770. 570. 770. 570.],False
+12,VCrB,Phase separation,[1673.],False
+13,ZnAlSb,Phase separation,[873. 723.],False
+14,ErGaSb,Phase separation,[1073.],False
+15,AuGaAs,Phase separation,[298.],False
+16,MgAgCd,Phase separation,[573. 473.],False
+17,VCrW,Phase separation,[1273. 1273.],False
+18,AgAsTe,Phase separation,[nan nan nan nan nan nan],False
+19,LiMgSi,Phase separation,[ nan 473. 873. 673. 470.],False
+20,ZrFeB,Phase separation,[1123.],False
+21,ZnInPb,Phase separation,[877. 805. 714.],False
+22,TlPbTe,Phase separation,[520.],False
+23,CuSnS,Phase separation,[773.],False
+24,ErCoB,Phase separation,[nan],False
+25,CuBiS,Phase separation,[573. 473.],False
+26,PdInSn,Phase separation,[nan],False
+27,CeCoCu,Phase separation,[673. 673.],False
+28,CuHgSn,Phase separation,[310.],False
+29,CdTlTe,Phase separation,[ nan 300.],False
+30,CeGdSi,Phase separation,[873.],False
+31,HoCuB,Phase separation,[970.],False
+32,YNiB,Phase separation,[970. 973.],False
+33,AuCdTe,Phase separation,[ nan  nan 298. 773. 773. 298.],False
+34,MoMnB,Phase separation,[1073.],False
+35,CeMgSi,Phase separation,[nan],False
+36,HfPdPt,Phase separation,[1273. 1273.],False
+37,CdPbTe,Phase separation,[nan],False
+38,LaCeSi,Phase separation,[nan],False
+39,ScMoSi,Phase separation,[1070.],False
+40,TiFeCo,Phase separation,[1173.],False
+41,AuBiSb,Phase separation,[ nan 573. 493.  nan 573.  nan 493. 573. 493.],False
+42,ZrZnSi,Phase separation,[873.],False
+43,TiRuIr,Phase separation,[nan nan],False
+44,AgSbTe,Phase separation,[673. 523.],False
+45,LuCoB,Phase separation,[1070.],False
+46,CuGaS,Phase separation,[773. 673.],False
+47,TiTaAl,Phase separation,[1373. 1373.],False
+48,CrMoW,Phase separation,[  nan 1673. 1373. 1573. 1273. 2500. 1573. 1573. 1273. 1573. 1273. 1873.],False
+49,TiNbGe,Phase separation,[1170.],False
+50,PrFeSb,Phase separation,[873. 773.],False
+51,NdCrB,Phase separation,[1073.],False
+52,TaReB,Phase separation,[1673.],False
+53,NiCdTe,Phase separation,[  nan 1073.],False
+54,HoVB,Phase separation,[1070.],False
+55,DyBiTe,Phase separation,[nan],False
+56,AgCdTe,Phase separation,[ nan 773. 573.],False
+57,BeTiV,Phase separation,[1073.],False
+58,CoSiGe,Phase separation,[1073.],False
+59,YAlSb,Phase separation,[800.],False
+60,ErFeSb,Phase separation,[773.],False
+61,PtGaSb,Phase separation,[773.],False
+62,AuInPb,Phase separation,[nan],False
+63,WFeCo,Phase separation,[1473.],False
+64,AuSiSn,Phase separation,[nan nan],False
+65,HfFeGa,Phase separation,[1073. 1068.],False
+66,WNiCu,Phase separation,[1873. 1773. 1753. 1673. 1573. 1473. 1373.],False
+67,IrPdPt,Phase separation,[1673. 1673.],False
+68,GaAsO,Phase separation,[ nan 298.],False
+69,CeLuGe,Phase separation,[870.],False
+71,TiTaNi,Phase separation,[1200.],False
+72,CdHgSn,Phase separation,[293.],False
+73,CoGaAs,Phase separation,[1073.  873.],False
+74,UReB,Phase separation,[1073.],False
+75,GdReB,Phase separation,[1273.],False
+76,UZrNb,Phase separation,[nan nan],False
+77,LaMnNi,Phase separation,[nan],False
+78,ZnCdTe,Phase separation,[  nan 1500. 1450. 1420. 1380. 1300. 1200. 1100.   nan],False
+79,CdSiTe,Phase separation,[nan],False
+80,NdFeB,Phase separation,[ nan 298.],False
+81,LaMnB,Phase separation,[nan],False
+83,LaAgSi,Phase separation,[773.],False
+84,ZrFeGa,Phase separation,[1073. 1072.],False
+85,ScHfGe,Phase separation,[1070.],False
+86,GeAsTe,Phase separation,[nan],False
+87,LaMnCo,Phase separation,[nan],False
+89,CdGeSb,Phase separation,[nan],False
+90,RuSiGe,Phase separation,[1173.],False
+91,NiBiTe,Phase separation,[ nan 300.],False
+92,LaBiTe,Phase separation,[nan],False
+93,LiMnSi,Phase separation,[nan],False
+94,AgBiTe,Phase separation,[ nan 400.],False
+95,AlInSn,Phase separation,[  nan   nan 1023.  923.  723. 1023.  923.  723.],False
+96,VNiAl,Phase separation,[nan],False
+97,CdInSn,Phase separation,[nan nan],False
+98,CeGeSb,Phase separation,[670.],False
+99,CdGaPb,Phase separation,[nan],False
+100,CuSnTe,Phase separation,[ nan  nan 298.],False
+101,AgAuBi,Phase separation,[ nan 503.],False
+102,CoCuS,Phase separation,[1173. 1073.  873.  673.],False
+103,CdSeO,Phase separation,[298.],False
+104,ZrTaV,Phase separation,[1623. 1523. 1323.   nan 1773.],False
+105,TiCoAl,Phase separation,[1073.   nan],False
+106,HfTiSi,Phase separation,[1623. 1273. 1873.   nan   nan],False
+107,LiCuAs,Phase separation,[nan],False
+108,SmCrB,Phase separation,[1073.],False
+110,GaSbTe,Phase separation,[nan nan],False
+111,ScVB,Phase separation,[1073.],False
+114,CuGeS,Phase separation,[873. 753. 973. 873. 973. 873.],False
+115,CeMnSn,Phase separation,[1073.],False
+116,GdCoB,Phase separation,[873.],False
+117,UCoB,Phase separation,[nan],False
+118,YZrMo,Phase separation,[1273.],False
+119,NbVAl,Phase separation,[1273.],False
+120,CrMoFe,Phase separation,"[1523.  923.  923. 1523.   nan 2000. 1573. 1523. 1473. 1373. 1373. 1273.
+ 1223.  923.]",False
+121,AlGaSb,Phase separation,"[  nan   nan   nan 1073.  973.  873.   nan   nan   nan 1173. 1023.  973.
+  873.   nan]",False
+122,VMoFe,Phase separation,[1573. 1573. 1570. 1170. 1173.   nan],False
+123,CdGaSb,Phase separation,[nan],False
+124,TaVMo,Phase separation,[1273. 1273. 1523. 1273. 1173.  298.],False
+125,YbBiTe,Phase separation,[nan],False
+126,ZnBiTe,Phase separation,[ nan 773.],False
+127,CuPbSb,Phase separation,[nan nan],False
+128,CuZnS,Phase separation,[1273. 1073.  773.  473.],False
+129,CrAlSi,Phase separation,[nan],False
+130,CrFeGa,Phase separation,[1068.],False
+131,YCrB,Phase separation,[1073.],False
+132,InBiSb,Phase separation,[298.],False
+133,SnPbTe,Phase separation,[  nan 1053.  873.  680.  500.],False
+134,AgHgPb,Phase separation,[ nan 583. 523. 473. 441.],False
+135,NbCoAl,Phase separation,[1073.],False
+136,ScFeB,Phase separation,[nan],False
+137,AgAuSi,Phase separation,[  nan   nan   nan   nan   nan 1073.  973.  873.  773.  673.],False
+138,ZrWB,Phase separation,[1673.],False
+139,CuAgIn,Phase separation,[778. 949.  nan],False
+140,AgAuSn,Phase separation,[  nan   nan 473.  523.  573.  649.3 643.  624.  567.  513.  479. ],False
+141,TlSnTe,Phase separation,[ nan 298.],False
+142,TiMnSn,Phase separation,[770.],False
+143,TaNbMo,Phase separation,[  nan 2823. 2923. 3073.  298.],False
+144,TiCuAg,Phase separation,[1223.  973.],False
+145,WAlGe,Phase separation,[670.],False
+146,YWB,Phase separation,[1273. 1273.],False
+147,DyWB,Phase separation,[1270.],False
+148,CdSnTe,Phase separation,[nan],False
+149,InSbTe,Phase separation,[ nan 298.],False
+151,GeSbTe,Phase separation,[ nan 620. 298.],False
+152,TbNiB,Phase separation,[nan],False
+153,FeSiSn,Phase separation,[ nan 298.  nan 298.],False
+154,MoNiPd,Phase separation,[1273.  973.],False
+155,CuAlSi,Phase separation,[nan],False
+156,FeSO,Phase separation,[900. 673.],False
+157,ScNiB,Phase separation,[1073.],False
+158,AgHgSb,Phase separation,[873. 773. 673. 523.],False
+159,HgSeO,Phase separation,[298.],False
+160,ScHfSi,Phase separation,[1070.],False
+161,DyMoB,Phase separation,[1273.],False
+162,CrPbSb,Phase separation,[500.],False
+163,DyAlSb,Phase separation,[773.],False
+164,GdNbFe,Phase separation,[773.],False
+165,HoFeGe,Phase separation,[870.],False
+166,AuBiTe,Phase separation,[ nan 729. 675. 656.  nan 729. 675. 656.],False
+167,DyScSi,Phase separation,[1200.],False
+168,HfNbGe,Phase separation,[1170.],False
+169,AlPbSb,Phase separation,[  nan   nan   nan 1073.],False
+171,BeFeAl,Phase separation,[1500. 1600. 1300.],False
+172,MoPdPt,Phase separation,[1273.],False
+173,GdWB,Phase separation,[1273.],False
+174,HfMoB,Phase separation,[nan],False
+175,NdCoSb,Phase separation,[870.],False
+176,CrNiPd,Phase separation,[nan],False
+177,TaNbW,Phase separation,[nan],False
+178,ZnSnAs,Phase separation,[423.  nan  nan],False
+179,SmFeSn,Phase separation,[670.],False
+180,UFeB,Phase separation,[  nan 1073.],False
+181,DyCrSi,Phase separation,[1200.],False
+182,GdFeB,Phase separation,[1073. 1073.],False
+183,AuInAs,Phase separation,[298.],False
+184,UAgSn,Phase separation,[1023.],False
+185,PbSbTe,Phase separation,[nan],False
+186,CeYMn,Phase separation,[870.],False
+187,CuAgAu,Phase separation,[ 803.  623.  583. 1048. 1023.  773.  573.],False
+188,YReSi,Phase separation,[1073.],False
+189,RhGaAs,Phase separation,[1073. 1273.],False
+190,NbCrMo,Phase separation,[  nan 1823. 1773. 1498. 1273.   nan 1473. 1388. 1273.],False
+191,CeMnCu,Phase separation,[nan],False
+192,ErFeGe,Phase separation,[1070.],False
+193,CoGaSb,Phase separation,[773.],False
+194,CuSbS,Phase separation,[973.],False
+195,NdAgGe,Phase separation,[1073.],False
+196,VCrMo,Phase separation,[nan],False
+197,PdPtSn,Phase separation,[1273.],False
+198,GdFeRu,Phase separation,[873.],False
+199,HfMnNi,Phase separation,[1175.],False
+200,FeGeTe,Phase separation,[720.],False
+201,AgAlSn,Phase separation,[ nan  nan 298. 298.],False
+202,GdVB,Phase separation,[1073.],False
+203,InPbTe,Phase separation,[nan],False
+204,SmReB,Phase separation,[1273.],False
+205,AgAlSi,Phase separation,[773. 773.],False
+206,CeFeB,Phase separation,[nan],False
+207,NbMoSi,Phase separation,[1073.],False
+208,SiCN,Phase separation,[  nan   nan 2123. 3000. 1900. 2000.],False
+209,UNiB,Phase separation,[nan],False
+210,HfCuSb,Phase separation,[770.],False
+211,YbNiB,Phase separation,[1073.],False
+212,ThWB,Phase separation,[2073.],False
+213,MoWSi,Phase separation,[2173.],False
+214,NdCoB,Phase separation,[nan],False
+216,CaMgNi,Phase separation,[nan],False
+217,CdBiTe,Phase separation,[ nan 773.],False
+218,HfMoRe,Phase separation,[2673. 2273. 1873.],False
+219,AgAuTe,Phase separation,[ nan  nan 573. 483.],False
+220,ErScSi,Phase separation,[873.],False
+222,MgAlSn,Phase separation,[nan],False
+223,ErCrB,Phase separation,[1543.],False
+224,ScWB,Phase separation,[1273.],False
+225,SrSiO,Phase separation,[298.],False
+226,BeTiAl,Phase separation,[  nan 1573. 1473. 1273.  873.],False
+227,NdMnCu,Phase separation,[nan],False
+228,NiAlAs,Phase separation,[1073.],False
+229,AgPbSb,Phase separation,[nan],False
+231,YHfMo,Phase separation,[1273.],False
+232,CoPbSb,Phase separation,[500.],False
+233,AuInSn,Phase separation,[523. 523.],False
+235,AgAlBi,Phase separation,[1143. 1143. 1143.],False
+237,MgAlGe,Phase separation,[nan],False
+238,ErTiFe,Phase separation,[973.],False
+239,TiVW,Phase separation,[ 873. 1073.  873.],False
+240,SiGeAs,Phase separation,[nan],False
+241,AuGeSb,Phase separation,[nan nan nan],False
+242,LaNdFe,Phase separation,[770.],False
+243,LaYB,Phase separation,[870.],False
+244,AgAlAs,Phase separation,[298.],False
+245,SmFeBi,Phase separation,[673.],False
+246,ZrCuIn,Phase separation,[870.],False
+247,CuAgZn,Phase separation,[943.],False
+248,LiMgAl,Phase separation,[293.  nan  nan  nan 673. 573. 473. 373.  nan  nan],False
+249,TiTaNb,Phase separation,[nan],False
+250,ZrReB,Phase separation,[1773.],False
+251,CeNdSi,Phase separation,[873.],False
+252,InGeTe,Phase separation,[nan],False
+253,CeZrGa,Phase separation,[870.],False
+254,GaPbTe,Phase separation,[298.],False
+255,TiReB,Phase separation,[1673.],False
+256,CeMnB,Phase separation,[nan],False
+257,AgSnTe,Phase separation,[ nan  nan 298.],False
+258,VCoB,Phase separation,[1073.],False
+259,LaReSi,Phase separation,[1073.],False
+260,ErMnNi,Phase separation,[803.],False
+261,CeGdMn,Phase separation,[870.],False
+262,SmFeGe,Phase separation,[ nan 870.],False
+263,MgAlBi,Phase separation,[nan],False
+264,AuSiSb,Phase separation,[nan],False
+265,CdInTe,Phase separation,[nan],False
+266,ScCoB,Phase separation,[nan],False
+267,TiNbAl,Phase separation,[1473.   nan 1673. 1473. 1373.  973.   nan 1473. 1673. 1473. 1373.  973.],False
+268,AuGaSb,Phase separation,[298. 298. 298.],False
+269,NiAlGe,Phase separation,[770.],False
+270,ErGaAs,Phase separation,[1073.],False
+271,CeMgMn,Phase separation,[nan],False
+272,YSiSb,Phase separation,[670.],False
+273,NdBiTe,Phase separation,[nan],False
+274,AgAlGe,Phase separation,[ nan  nan 673.],False
+275,NiSnTe,Phase separation,[813.],False
+276,NiCuSi,Phase separation,[773.],False
+277,GdMnB,Phase separation,[1073.],False
+278,CdHgPb,Phase separation,[ nan  nan 440. 373. 339. 323. 313. 293. 240.],False
+279,DyFeB,Phase separation,[1073. 1070.],False
+280,ZnSnSb,Phase separation,[nan],False
+281,CoPbTe,Phase separation,[nan],False
+282,FeCoAl,Phase separation,[1400. 1000.  800.  300.  600.  600.  700.],False
+283,TiNbCr,Phase separation,[2173. 2073. 1973. 1873. 1773. 1673. 1573.],False
+284,AgPbTe,Phase separation,[ nan  nan 298.],False
+285,NdMnNi,Phase separation,[nan],False
+286,ErFeB,Phase separation,[1073.],False
+287,FeCuSi,Phase separation,[1523. 1623. 1723.],False
+289,NbVGe,Phase separation,[1120. 1123.],False
+290,InGaSb,Phase separation,[nan],False
+291,PrNiB,Phase separation,[nan],False
+292,CdHgTe,Phase separation,[ 810.  930. 1140. 1230.   nan   nan],False
+293,YMoB,Phase separation,[1273. 1273.],False
+294,AuGeTe,Phase separation,[nan nan],False
+295,TiVMo,Phase separation,[873. 723.],False
+296,CdHgTl,Phase separation,[423. 401. 293. 261. 218.],False
+297,GdCoSb,Phase separation,[773.],False
+298,ReAlSi,Phase separation,[873.],False
+299,VCuAl,Phase separation,[873.],False
+300,DyVSi,Phase separation,[1200.],False
+301,AuSiTe,Phase separation,[nan nan],False
+302,ZnPbTe,Phase separation,[nan],False
+303,ZnSnPb,Phase separation,[ nan 973. 873. 773. 723.],False
+304,ScFeGa,Phase separation,[1068.],False
+305,NdSbTe,Phase separation,[nan],False
+306,HoFeSb,Phase separation,[773.],False
+307,ErNiB,Phase separation,[1070.],False
+308,GaPbSb,Phase separation,[nan],False
+309,AgCdSn,Phase separation,[ nan 873. 773.],False
+310,HoMoB,Phase separation,[1273.],False
+311,DyCrB,Phase separation,[1070.],False
+312,TlAsTe,Phase separation,[298.],False
+313,CeCoZn,Phase separation,[470.],False
+314,ScReB,Phase separation,[1273.],False
+315,NbPdAl,Phase separation,[1373.],False
+316,TiGaAs,Phase separation,[ 298. 1073.],False
+317,TiCoB,Phase separation,[1073.],False
+318,TiVAl,Phase separation,[  nan 1073.],False
+319,CuSbTe,Phase separation,[573. 623. 673. 773. 873.],False
+320,NdCuSb,Phase separation,[870.],False
+321,CaFeSi,Phase separation,[  nan 1623.   nan 2073. 1873.],False
+322,TaMoNi,Phase separation,[1173.],False
+324,LaTiSi,Phase separation,[773.],False
+325,NbNiSn,Phase separation,[773.],False
+326,HfCrGa,Phase separation,[nan],False
+327,SmCoB,Phase separation,[nan],False
+328,NaSbTe,Phase separation,[nan],False
+329,NiZnSi,Phase separation,[570.],False
+330,MgMoNi,Phase separation,[725.],False
+332,NbCrB,Phase separation,[1673.],False
+333,FeNiAl,Phase separation,[ 298.  298. 1023.],False
+334,MoGaAs,Phase separation,[1573. 1273. 1073. 1440. 1185. 1156.  298.  873.   nan],False
+335,TiNbB,Phase separation,[1673. 3070. 2966. 2920. 2683. 2063.   nan   nan],False
+336,IrRhPd,Phase separation,[1673. 1673.],False
+337,ScReSi,Phase separation,[1073.],False
+338,CdGaAs,Phase separation,[nan],False
+339,PrMnB,Phase separation,[nan],False
+340,HoOsGe,Phase separation,[870.],False
+341,CeCrB,Phase separation,[1073.],False
+342,NbGaAs,Phase separation,[873.],False
+343,GdFeSb,Phase separation,[773.],False
+344,AgHgSn,Phase separation,[ nan 343. 487. 440. 373. 357. 343. 373. 310.],False
+345,TiNbW,Phase separation,[873.],False
+346,InPbSb,Phase separation,[nan],False
+347,NdGaSi,Phase separation,[870.],False
+348,SiNO,Phase separation,[2120. 2125. 2135. 2155.],False
+349,TmFeSi,Phase separation,[1073.],False
+350,MoNiSn,Phase separation,[298.],False
+351,NiGaTe,Phase separation,[nan],False
+352,CdBiSb,Phase separation,[649.],False
+353,MgNiCu,Phase separation,[673.],False
+354,AuPbTe,Phase separation,[nan nan],False
+355,YbGaTe,Phase separation,[nan],False
+356,HfTaV,Phase separation,[1573. 1423.  298.],False
+357,AlGaGe,Phase separation,[nan nan],False
+358,HfTiAl,Phase separation,[1373.],False
+360,TaCrW,Phase separation,[1773. 1273.],False
+361,CuAlPb,Phase separation,[1323.],False
+362,CdGeAs,Phase separation,[823.  nan 823.],False
+363,ZrNbFe,Phase separation,[nan],False
+364,SmBiTe,Phase separation,[nan],False
+365,UWB,Phase separation,[1273.],False
+366,CdSbTe,Phase separation,[623.],False
+367,TmSbTe,Phase separation,[nan],False
+368,AgAuSb,Phase separation,[ nan  nan  nan 613. 662. 613.],False
